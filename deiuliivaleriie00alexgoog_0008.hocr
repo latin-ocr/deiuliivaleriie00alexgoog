@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deiuliivaleriie00alexgoog_0008.png"; bbox 0 0 3232 5114; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 353 2175 1190 2438">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 353 2175 1190 2438">
+     <span class='ocr_line' id='line_1_1' title="bbox 356 2175 1042 2281; baseline 0.001 -24"><span class='ocrx_word' id='word_1_1' title='bbox 356 2273 363 2281; x_wconf 38' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 474 2175 667 2258; x_wconf 85' lang='lat' dir='ltr'>Marthae</span> <span class='ocrx_word' id='word_1_3' title='bbox 701 2176 890 2258; x_wconf 85' lang='lat' dir='ltr'><strong>Helenae</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 925 2176 1042 2258; x_wconf 88' lang='lat' dir='ltr'><strong>Cillie&#39;</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 353 2355 1190 2438; baseline 0 -2"><span class='ocrx_word' id='word_1_5' title='bbox 353 2355 515 2436; x_wconf 84' lang='lat' dir='ltr'><strong>Mariae</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 549 2355 821 2437; x_wconf 83' lang='lat' dir='ltr'><strong>Elisabethae</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 856 2383 940 2437; x_wconf 86' lang='lat' dir='ltr'><strong>van</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 974 2357 1190 2438; x_wconf 68' lang='lat' dir='ltr'><strong>Niekerk&#39;</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 683 2546 830 2592">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 683 2546 830 2592">
+     <span class='ocr_line' id='line_1_3' title="bbox 683 2546 830 2592; baseline 0.014 -2"><span class='ocrx_word' id='word_1_9' title='bbox 683 2546 830 2592; x_wconf 72' lang='lat' dir='ltr'><strong>sacrum.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1620 5114">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1620 5114">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1620 5114; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1620 5114; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
